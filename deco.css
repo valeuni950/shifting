@@ -1,0 +1,64 @@
+body {
+    font-family: Scotch Roman;
+    margin: 0;
+    padding: 0;
+    background-color:#2d2c55;
+  border:5px solid #688391; 
+}
+
+body {
+    background-image: url('unii.gif');
+    background-size: cover; 
+    background-repeat: no-repeat; 
+}
+
+
+header {
+    background-color: #688391;
+    color: pink;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+ background:#c8dfe2;
+padding:20px;
+text-aling:center;
+color:#252440;
+text-shadow:3px 3px 1px white;
+}
+
+div {
+  background-color:white;
+  width:200px;
+  height:120;
+}
+
+ul.navbar{
+list-style-type:none;
+padding:0;
+margin:0;
+position:absolute;
+top:7em;
+left:1em;
+width:9em;
+}
+
+ul.navbar li{
+background:#688391;
+margin:0.7em;
+padding:0.3em;
+border-right:0.5em solid #c8dfe2;
+}
+
+ul.navbar a{
+text-decoration:none;
+}
+
+a:link{
+color:white;
+}
+
+a:visited{
+color:green:
+}

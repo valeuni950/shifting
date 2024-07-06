@@ -1,0 +1,32 @@
+body {
+  width:700px;
+  margin:o auto;
+  background-color:black;
+  padding: 0 310px 310px 310px;
+  border:5px solid #688391; 
+}
+
+body {
+    background-image: url('im2.gif');
+    background-size: cover; 
+    background-repeat: no-repeat
+}
+
+h1 {
+background:#688391;
+padding:20px;
+text-aling:center;
+color:#252440;
+text-shadow:3px 3px 1px white;
+
+}
+
+
+a {
+    color: #a554bc; 
+    text-decoration: none; 
+}
+
+a:hover {
+    text-decoration: underline; 
+}
